@@ -1,0 +1,9 @@
+name: MobMoney
+version: 1.0-SNAPSHOT
+main: me.lucap.mobmoney.Main
+api-version: 1.13
+authors: [Lucap]
+description: Get money everytime you kill a mob!
+website: lucap.me
+depend:
+  - Vault
